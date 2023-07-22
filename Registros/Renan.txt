@@ -1,0 +1,21 @@
+2023-07-22 17:09:54: Renan logou
+2023-07-22 17:10:01: Foi sacado 250.00 da conta de Renan
+2023-07-22 17:11:16: Renan logou
+2023-07-22 17:11:21: Foi sacado 250.00 da conta de Renan
+2023-07-22 17:11:26: Foi sacado 333.20 da conta de Renan
+2023-07-22 17:11:31:  Logout feito
+2023-07-22 18:25:22: Renan logou
+2023-07-22 18:25:24: Consultou extrato
+2023-07-22 18:25:35: consultou o saldo 
+2023-07-22 18:27:04: Renan logou
+2023-07-22 18:27:06: consultou o saldo 
+2023-07-22 18:27:10: Foi sacado 123.00 da conta de Renan
+2023-07-22 18:27:11: consultou o saldo 
+2023-07-22 18:27:17: Consultou extrato
+2023-07-22 18:27:34: consultou o saldo 
+2023-07-22 18:53:38: Renan logou
+2023-07-22 18:53:40: consultou o saldo 
+2023-07-22 18:53:44: Foi sacado 250.00 da conta de Renan
+2023-07-22 18:53:48: Adicionado deposito de de R$1000.0 na conta. Valor atual: R$1750.0
+2023-07-22 18:53:51: Consultou extrato
+2023-07-22 18:54:08: Logout feito
